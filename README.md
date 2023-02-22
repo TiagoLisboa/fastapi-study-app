@@ -13,7 +13,7 @@ App to study fastapi alongside with other techs and programming concepts.
 8. RabbitMQ for queueing some big task
 9. Hosting in some cloud
 10. Nginx
-11. PostgreSQL
+11. MongoDB
 12. Try to add some instrumentation, monitoring and telemetry (study the subject)
 
 ## App domain
